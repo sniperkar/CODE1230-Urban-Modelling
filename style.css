@@ -27,7 +27,7 @@ font-size:18px;
 .topnav {
 position:fixed;
   top:0;
-  background-color:hsl(120,60%,70%);
+  background-color:#ccf2ff;
 }
 
 .topnav a {
