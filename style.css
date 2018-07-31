@@ -27,13 +27,13 @@ font-size:18px;
 .topnav {
 position:fixed;
   top:0;
-  background-color:#ccf2ff;
+  background-color:#b3ffff;
 }
 
 .topnav a {
 float: left;
   display: block;
-  color: #001f3f;
+  color: #ffe6ff;
   text-align: center;
   padding: 14px 16px;
   text-decoration:none;
@@ -41,6 +41,6 @@ float: left;
 }
 
 .topnav a:hover {
-background-color: #001f3f;
-  color:#DDDDDD;
+background-color: #e6fff5;
+  color:#b3fff0;
 }
